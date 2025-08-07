@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# ecommerce-frontend" 
 "# ecommerce-frontend" 
 "# ecommerce-frontend" 
+"# ecommerce_frontend" 
